@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LaFourchette
+
+  Created by Benjamin Knopf on 26/07/2017.
+  Copyright © 2017 Benjamin Knopf. All rights reserved.
+*/
+
+"SERVER_ERROR" = "Pas de connexion Internet";
+"RESTAURANT_NOT_FOUND" = "Restaurant inconnu";
+"MISSING_METHOD" = "Methode inconnu";
+"UNKNOWN_ERROR" = "Erreur inconnu";
